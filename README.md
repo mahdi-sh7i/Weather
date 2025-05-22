@@ -17,6 +17,7 @@ A simple desktop weather application built with Python and PyQt5. This app fetch
 
 ## Previwe
 
+![3](https://github.com/user-attachments/assets/510ed336-023e-4763-89de-71a3153b3bdd)
 
 
 ## Prerequisites
