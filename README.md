@@ -15,6 +15,10 @@ A simple desktop weather application built with Python and PyQt5. This app fetch
 - Shows condition-specific images
 - Frameless, centered, and transparent window design
 
+## Previwe
+
+
+
 ## Prerequisites
 
 - Python 3.x
